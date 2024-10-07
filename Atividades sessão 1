@@ -1,3 +1,4 @@
+//atividade 2:
 #include <stdio.h>
 int main (){
 /*
@@ -18,8 +19,7 @@ return 0;
 #include <stdio.h>
 int main (){
 /*
-Faça um algoritmo para calcular o estoque médio de uma peça, sendo que: 
-estoque medio = (quantidade mínima + quantidade máxima)
+Teste o algoritmo anteruiru com dados definidos por você
 */
     int quantidade_minima = 5;
     int quantidade_maxima = 60;
@@ -29,3 +29,4 @@ estoque medio = (quantidade mínima + quantidade máxima)
     printf("\nGit: AlessandrRM.");
 return 0;
 }
+//atividade 4: 
