@@ -41,3 +41,15 @@ int soma;
     printf("\nGit: AlessandrRM.");
 return 0;
 }
+
+//atividade 5: 
+#include <stdio.h>
+int main (){
+/*Faça um programa que converta metros para centimetros*/ 
+int m = 2; 
+int cm;
+cm = (m*100); 
+printf("%d metros em cm é: %d",m,cm); 
+    printf("\nGit: AlessandrRM.");
+return 0;
+}
