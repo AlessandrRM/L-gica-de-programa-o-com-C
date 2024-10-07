@@ -1,0 +1,16 @@
+/*
+A)
+1-Identifique os dados de entrada, processamento e saída no algoritmo abaixo: 
+    Receber código da peça 
+    Receber o valor da peça 
+    Receber a quantidade de peças 
+    Calcular o caor total da peça (quantidade * valor da peça)
+    mostrar o código da peça e seu valor total 
+2-Faça um algoritmo para calcular o estoque médio de uma peça, sendo que: 
+    estoque medio = (quantidade mínima + quantidade máxima)/2
+3-Teste o algoritmo anteruiru com dados definidos por você 
+4-Faça um algoritmo que peça dois números e imprima a soma 
+5-Faça um algoritmo que converta metro para centimetros.  
+6-Faça um algoritmo que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês.
+    Calcule e mostre o total do seu salário no referido mês.  
+7-Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula 
