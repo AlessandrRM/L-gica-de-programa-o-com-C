@@ -32,6 +32,7 @@ return 0;
 //atividade 4: 
 #include <stdio.h>
 int main (){
+/*Faça um algoritmo que peça dois números e imprima a soma */
 int n1 = 10;
 int n2 = 20;
 int soma; 
